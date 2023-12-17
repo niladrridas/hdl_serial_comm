@@ -1,0 +1,18 @@
+# Set the default behavior for binary files
+* binary
+
+# Set the line ending style to LF for all text files
+* text eol=lf
+
+# Explicitly declare files that should always be treated as binary, regardless of content
+*.png binary
+*.jpg binary
+
+# Ignore whitespace differences in merges
+*.c diff=cpp
+
+# Specify a custom merge driver for specific file types
+*.docx merge=word
+
+# Specify a custom diff driver for specific file types
+*.pdf diff=pdf
