@@ -1,0 +1,28 @@
+# Ignore temporary files
+*.tmp
+*.temp
+*.log
+
+# Ignore compiled binaries
+*.exe
+*.dll
+*.so
+*.out
+
+# Ignore build and output directories
+/build/
+/dist/
+/out/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+
+# Ignore user-specific files
+*.suo
+*.user
+*.userprefs
