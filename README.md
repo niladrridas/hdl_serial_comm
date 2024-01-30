@@ -49,7 +49,7 @@ This project implements UART (Universal Asynchronous Receiver-Transmitter) commu
 
 ## Documentation
 
-For detailed information on project structure, module functionalities, and integration guidelines, refer to the [documentation](docs/README.md).
+For detailed information on project structure, module functionalities, and integration guidelines, refer to the [email](mailto:ndas1262000@gmail.com).
 
 ## Contributing
 
@@ -57,7 +57,7 @@ If you would like to contribute to the project, please follow the [contribution 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](https://github.com/niladrigithub/hdl_serial_comm?tab=MIT-1-ov-file). See the [LICENSE](https://github.com/niladrigithub/hdl_serial_comm?tab=MIT-1-ov-file) file for details.
 
 ## Acknowledgments
 
