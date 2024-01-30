@@ -1,6 +1,6 @@
-# Contributing to [Your Project Name]
+# Contributing to UART Communication on Xilinx FPGA
 
-Thank you for considering contributing to [Your Project Name]! By contributing to this project, you help make it better and encourage its growth.
+Thank you for considering contributing to Your Project Name! By contributing to this project, you help make it better and encourage its growth.
 
 ## How to Contribute
 
@@ -26,16 +26,16 @@ Improvements to project documentation are also appreciated. If you find areas th
 
 ## Code of Conduct
 
-This project follows a Code of Conduct. By participating, you agree to uphold this code. Please report any unacceptable behavior.
+This project follows a Code of Conduct. By participating, you agree to uphold this code. Please report any unacceptable behaviour.
 
 ## Getting Help
 
-If you have questions or need help with anything related to the project, feel free to open an issue or reach out to [maintainer's name] at [maintainer's email].
+If you have questions or need help with anything related to the project, feel free to open an issue or reach out to Niladri Das at ndas1262000@gmail.com.
 
 ## License
 
-By contributing to [Your Project Name], you agree that your contributions will be licensed under the [LICENSE] file in the root of the project.
+By contributing to UART Communication on Xilinx FPGA, you agree that your contributions will be licensed under the [LICENSE](https://github.com/niladrigithub/hdl_serial_comm?tab=MIT-1-ov-file) file at the root of the project.
 
 Thank you for contributing!
 
-[Your Project Name] Team
+UART Communication on Xilinx FPGA Team
